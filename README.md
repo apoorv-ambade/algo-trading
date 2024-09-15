@@ -4,7 +4,7 @@
 **Trading is subject to market risks, and Futures & Options (F&O) trading carries a high level of risk. I am not responsible for any financial losses or decisions made based on this project.**
 
 ## Overview:
-This project involves a Python-based trading bot that automates scalping for BankNifty options. It integrates the Zerodha Kiteconnect API and TradingView to automate trading decisions and execution in real-time.
+This project involves a Python-based trading bot that automates scalping for Nifty50 options. It integrates the Zerodha Kiteconnect API and TradingView to automate trading decisions and execution in real-time.
 
 Key Features:
 
